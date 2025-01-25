@@ -9,8 +9,8 @@ The libraries used:
 3. math
 4. json
 5. tqdm
-6. matplotlib.pyplot
-6. sklearn.ensemble 
+6. matplotlib
+6. sklearn
 7. datetime
 8. sklearn
 
