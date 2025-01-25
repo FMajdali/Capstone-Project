@@ -20,7 +20,7 @@ The files included in this repository are:
 3. transactions_df.pkl: a pickle file that contains the cleaned transactional data, it is one of the outputs of the jupyter notebook above
 4. profile.json: containing offer IDs and meta data about each offer (duration, type, etc.), project source data
 5. portfolio.json: demographic data for each customer, project source data
-6. transcript.json: records for transactions, offers received, offers viewed, and offers completed, project source data
+6. transcript.json: couldn't uploaded the file as it exceeds 25 MB you can find it in the link(https://drive.google.com/file/d/1L48ax8X9kI1vXUY7cCYyQme-E0iO011J/view?usp=drive_link), it contains records for transactions, offers received, offers viewed, and offers completed, project source data
 
 You can find more about my approach in the post below:
 https://medium.com/@faris.majdali/predicting-consumer-offer-behavior-4f1ce27d5a3d
