@@ -23,3 +23,4 @@ The files included in this repository are:
 6. transcript.json: records for transactions, offers received, offers viewed, and offers completed, project source data
 
 You can find more about my approach in the post below:
+https://medium.com/@faris.majdali/predicting-consumer-offer-behavior-4f1ce27d5a3d
