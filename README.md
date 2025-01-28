@@ -24,3 +24,5 @@ The files included in this repository are:
 
 You can find more about my approach in the post below:
 https://medium.com/@faris.majdali/predicting-consumer-offer-behavior-4f1ce27d5a3d
+
+I want to thank all Udacity Data Science instructors for all the useful information and for making what seems impossible to be possible.
